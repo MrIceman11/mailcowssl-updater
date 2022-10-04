@@ -1,2 +1,2 @@
 # mailcowssl-updater
-Update SSL over NPM
+Simpel Bash scirpt to Copy the SSL Cert from the NGNX Proxy Manager to your mailcow Server!
